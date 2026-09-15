@@ -1,0 +1,38 @@
+[
+  {
+    "url": "./archives/qiaopi_01_envelope_1952.webp",
+    "width": 1250,
+    "height": 2460,
+    "id": "QP-001",
+    "title": "侨批信封 · 1952",
+    "category": "侨批信封",
+    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。"
+  },
+  {
+    "url": "./archives/qiaopi_02_front.webp",
+    "width": 1335,
+    "height": 2460,
+    "id": "QP-002",
+    "title": "侨批信封 · 正面",
+    "category": "侨批信封",
+    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。"
+  },
+  {
+    "url": "./archives/qiaopi_02_back.webp",
+    "width": 1333,
+    "height": 2460,
+    "id": "QP-003",
+    "title": "侨批信封 · 背面",
+    "category": "侨批信封",
+    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。"
+  },
+  {
+    "url": "./archives/qiaopi_03_cheng_choon_sui.webp",
+    "width": 1754,
+    "height": 2460,
+    "id": "QP-004",
+    "title": "CHENG CHOON SUI 信纸",
+    "category": "信纸",
+    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。"
+  }
+]
