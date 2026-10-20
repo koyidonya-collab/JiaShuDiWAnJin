@@ -6,10 +6,12 @@
     "id": "QP-001",
     "title": "王孝忠侨批",
     "titleEn": "Remittance Letter to Wang Xiaozhong",
-    "year": "1952年 / 1952",
+    "year": "1952",
+    "origin": "不详 / Unknown",
+    "destination": "澄海莲阳 / Lianyang, Chenghai",
     "category": "侨批信封",
     "description": "这张1952年的侨批封面以“王孝忠先生收”标明收件人，地址指向澄海莲阳一带，左侧记有“外付港币参拾元”。姓名、地址与款项同列于一纸，体现了侨批既传递私人书信，也承担跨境汇款记录的双重功能。部分地址及经手人字迹仍待考证。",
-    "descriptionEn": "Dated 1952, this qiaopi envelope is addressed to Wang Xiaozhong in the Lianyang area of Chenghai. It records a remittance of 30 Hong Kong dollars. The names, address and payment details reveal how qiaopi served as both personal correspondence and a means of transferring money between overseas Chinese communities and their hometowns."
+    "descriptionEn": "Dated 1952, this qiaopi envelope is addressed to Wang Xiaozhong in the Lianyang area of Chenghai. It records a remittance of 30 Hong Kong dollars. The names, address and payment details reveal how qiaopi served as both personal correspondence and a means of transferring money between overseas Chinese communities and their hometowns. Some details of the address and the intermediary remain unclear."
   },
   {
     "url": "./archives/qiaopi_02_front.webp",
@@ -17,8 +19,10 @@
     "height": 2460,
     "id": "QP-002",
     "title": "侨批信封 · 正面",
+    "titleEn": "Qiaopi Envelope · Front",
     "category": "侨批信封",
-    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Qiaopi image supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_02_back.webp",
@@ -26,8 +30,10 @@
     "height": 2460,
     "id": "QP-003",
     "title": "侨批信封 · 背面",
+    "titleEn": "Qiaopi Envelope · Back",
     "category": "侨批信封",
-    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Qiaopi image supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_03_cheng_choon_sui.webp",
@@ -35,8 +41,10 @@
     "height": 2460,
     "id": "QP-004",
     "title": "CHENG CHOON SUI 信纸",
+    "titleEn": "CHENG CHOON SUI Letter Paper",
     "category": "信纸",
-    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的侨批图像。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Qiaopi image supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_05_material.png",
@@ -44,8 +52,10 @@
     "height": 1402,
     "id": "QP-005",
     "title": "蓝墨家书",
+    "titleEn": "Letter in Blue Ink",
     "category": "侨批素材",
-    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Visual material supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_06_material.png",
@@ -53,8 +63,10 @@
     "height": 1536,
     "id": "QP-006",
     "title": "侨批封面素材",
+    "titleEn": "Qiaopi Cover Material",
     "category": "侨批素材",
-    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Visual material supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_07_material.png",
@@ -62,8 +74,10 @@
     "height": 1536,
     "id": "QP-007",
     "title": "手写信页素材",
+    "titleEn": "Handwritten Letter Page",
     "category": "侨批素材",
-    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Visual material supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_08_material.png",
@@ -71,8 +85,10 @@
     "height": 1536,
     "id": "QP-008",
     "title": "红栏侨批封面",
+    "titleEn": "Qiaopi Cover with Red Ruled Columns",
     "category": "侨批素材",
-    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Visual material supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_09_material.png",
@@ -80,8 +96,10 @@
     "height": 1327,
     "id": "QP-009",
     "title": "家书信页素材",
+    "titleEn": "Family Letter Page",
     "category": "侨批素材",
-    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Visual material supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   },
   {
     "url": "./archives/qiaopi_10_material.png",
@@ -89,7 +107,9 @@
     "height": 1536,
     "id": "QP-010",
     "title": "红栏收件封面",
+    "titleEn": "Addressed Cover with Red Ruled Columns",
     "category": "侨批素材",
-    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。"
+    "description": "用户提供的视觉素材。完整保留原图；人物、年代、地点和释文尚待核实。",
+    "descriptionEn": "Visual material supplied by the user. The original image is preserved in full; the people, date, places and text remain to be verified."
   }
 ]
